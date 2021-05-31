@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hampus
-- :space_invader: I used to be a game dev but am currently studying media engineering
-- 🌱 I'm currently learnming Photgraphy, Video technology, and Sensor programming
+- :space_invader: I used to be a game dev but am currently studying media engineering at KTH in stockholm
+- 🌱 During the summer i'm a seasonal mechanic at Gröna Lund amusement park
 - 💞️ I’m looking to collaborate on cool game projects
 - 📫 How to reach me hampus@hampushuledal.com
 
